@@ -1,0 +1,13 @@
+.bi {
+  vertical-align: -.125em;
+  pointer-events: none;
+  fill: currentColor;
+}
+
+.custom-table thead tr{
+  height: 50px;
+}
+
+.custom-table tr{
+  height: 75px;
+}
